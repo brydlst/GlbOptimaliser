@@ -7,6 +7,7 @@ import json
 try:
     import easygui
     import gltflib
+    import imageio
 except ImportError:
     os.system('pip install easygui')
     os.system('pip install gltflib')
