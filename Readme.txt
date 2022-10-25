@@ -1,11 +1,9 @@
 Setup:
 
-1) Install Python ----- www.python.org/downloads
-2) Run InstallPythonDependencies.bat
-
+- Install Python ----- www.python.org/downloads
 
 
 
 Optimalize gltf packages:
 
-1) Run OptimiseGLTB.bat
+- Run OptimiseGLTB.bat
