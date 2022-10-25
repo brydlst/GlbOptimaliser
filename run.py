@@ -11,6 +11,7 @@ try:
 except ImportError:
     os.system('pip install easygui')
     os.system('pip install gltflib')
+    os.system('pip install imageio')
 # -- if all went well, import required module again (for global access)
 import imageio.v3 as iio
 import easygui as g
