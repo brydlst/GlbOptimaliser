@@ -4,6 +4,6 @@ Setup:
 
 
 
-Optimalize gltf packages:
+Optimalise gltf packages:
 
 - Run OptimiseGLTB.bat
